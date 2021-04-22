@@ -5,7 +5,8 @@ MATALB2020 连接 树莓派教程
 
 
 
-一、找到下载好的matlab对树莓派的支持包
+一、找到下载好的matlab对树莓派的支持包![image](https://user-images.githubusercontent.com/62105777/115750643-f8556780-a3ca-11eb-89ba-2759aa6a50dc.png)
+
 
  
 点击matlab support package 右边的设置符号，页面如下：
